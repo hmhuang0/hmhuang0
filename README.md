@@ -3,7 +3,7 @@
 <--
 !**hmhuang0/hmhuang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:!
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on classwork.
 - 🌱 I’m currently learning how to use GitHub.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:!
 - ⚡ Fun fact: ...(N/A)
 - I am interested in learning to write programme. 
 - My favorite hobby is watching movie.
--->
+
 

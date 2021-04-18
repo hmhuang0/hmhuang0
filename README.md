@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <--
-**hmhuang0/hmhuang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!**hmhuang0/hmhuang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:!
 
 - 🔭 I’m currently working on classwork.
 - 🌱 I’m currently learning how to use GitHub.
